@@ -1,8 +1,8 @@
 ### Date created
-2020-12-20
+2020-12-22
 
 ### Project Title
-udaicty git hub assignment
+udaicty nano degree git hub assignment
 
 ### Description
 github commands assignment
